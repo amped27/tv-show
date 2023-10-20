@@ -1,0 +1,23 @@
+.container {
+    cursor: pointer;
+    position: relative;
+    border-radius: 15px;
+    width: 300px;
+}
+
+.image {
+    border-radius: 15px;
+}
+
+.title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #00000091;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
